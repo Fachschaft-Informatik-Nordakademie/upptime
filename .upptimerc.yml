@@ -24,6 +24,8 @@ sites:
     url: https://coolify.nak-inf.org
   - name: NPMplus
     url: https://nginx.nak-inf.org
+  - name: Mango (Proxmox VE)
+    url: https://mango.nak-inf.org
 
 status-website:
   cname: status.nak-inf.org
