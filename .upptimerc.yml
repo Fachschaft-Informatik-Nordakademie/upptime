@@ -1,31 +1,45 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Fachschaft-Informatik-Nordakademie
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Outline Wiki
+    url: https://wiki.nak-inf.org
+  - name: Authentik SSO
+    url: https://auth.nak-inf.org
+  - name: Pretix Shop (FS Inf)
+    url: https://shop.nak-inf.org
+  - name: Pretix Shop (FS BWL)
+    url: https://shop.nak-bwl.de
+  - name: Overleaf
+    url: https://overleaf.nak-inf.org
+  - name: Firefly III (FS Inf)
+    url: https://budget.nak-inf.org
+  - name: Firefly III (FS BWL)
+    url: https://budget.nak-bwl.de
+  - name: Vaultwarden
+    url: https://vault.stupanak.de
+  - name: Mailcow
+    url: https://mx.stupanak.de
+  - name: Coolify
+    url: https://coolify.nak-inf.org
+  - name: NPMplus
+    url: https://nginx.nak-inf.org
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.nak-inf.org
+  name: Status | Fachschaft Informatik NAK
+  introTitle: "Systemstatus der Fachschaft Informatik Nordakademie"
+  introMessage: "Hier findest du den aktuellen Status aller Dienste der Fachschaft Informatik an der NORDAKADEMIE."
   navbar:
     - title: Status
       href: /
+    - title: Wiki
+      href: https://wiki.nak-inf.org
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/Fachschaft-Informatik-Nordakademie
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - Raindancer118
+
+i18n:
+  footer: "Systemstatus der Fachschaft Informatik Nordakademie · Powered by Upptime"
