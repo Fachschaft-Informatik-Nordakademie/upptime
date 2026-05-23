@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.nak-inf.org.ico",
     "slug": "outline-wiki",
     "status": "down",
-    "uptime": "96.66%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "96.66%",
-    "uptimeYear": "96.66%",
+    "uptime": "93.46%",
+    "uptimeDay": "92.43%",
+    "uptimeWeek": "93.46%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "93.46%",
     "time": 444,
     "timeDay": 371,
     "timeWeek": 444,
     "timeMonth": 444,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2026-05-23": 54
+      "2026-05-23": 109
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.nak-inf.org.ico",
     "slug": "authentik-sso",
     "status": "down",
-    "uptime": "96.96%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "96.96%",
+    "uptime": "93.76%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "93.76%",
+    "uptimeYear": "93.76%",
     "time": 1211,
     "timeDay": 1143,
     "timeWeek": 1211,
     "timeMonth": 1211,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2026-05-23": 49
+      "2026-05-23": 104
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.nak-inf.org.ico",
     "slug": "pretix-shop-fs-inf",
     "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "97.26%",
+    "uptime": "94.05%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "94.05%",
     "time": 442,
     "timeDay": 554,
     "timeWeek": 442,
     "timeMonth": 442,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2026-05-23": 44
+      "2026-05-23": 99
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.nak-bwl.de.ico",
     "slug": "pretix-shop-fs-bwl",
     "status": "down",
-    "uptime": "97.57%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptime": "94.34%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "94.34%",
+    "uptimeYear": "94.34%",
     "time": 600,
     "timeDay": 526,
     "timeWeek": 600,
     "timeMonth": 600,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2026-05-23": 39
+      "2026-05-23": 94
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/overleaf.nak-inf.org.ico",
     "slug": "overleaf",
     "status": "down",
-    "uptime": "97.87%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "97.87%",
+    "uptime": "94.64%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "94.64%",
     "time": 875,
     "timeDay": 810,
     "timeWeek": 875,
     "timeMonth": 875,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2026-05-23": 34
+      "2026-05-23": 89
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/budget.nak-inf.org.ico",
     "slug": "firefly-iii-fs-inf",
     "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.17%",
+    "uptime": "94.93%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "94.93%",
     "time": 1598,
     "timeDay": 1575,
     "timeWeek": 1598,
     "timeMonth": 1598,
     "timeYear": 1598,
     "dailyMinutesDown": {
-      "2026-05-23": 29
+      "2026-05-23": 85
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/budget.nak-bwl.de.ico",
     "slug": "firefly-iii-fs-bwl",
     "status": "down",
-    "uptime": "98.48%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
+    "uptime": "95.22%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "95.22%",
     "time": 1718,
     "timeDay": 1720,
     "timeWeek": 1718,
     "timeMonth": 1718,
     "timeYear": 1718,
     "dailyMinutesDown": {
-      "2026-05-23": 25
+      "2026-05-23": 80
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.stupanak.de.ico",
     "slug": "vaultwarden",
     "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
+    "uptime": "95.51%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "95.51%",
     "time": 568,
     "timeDay": 578,
     "timeWeek": 568,
     "timeMonth": 568,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2026-05-23": 20
+      "2026-05-23": 75
     }
   },
   {
@@ -165,18 +165,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mx.stupanak.de.ico",
     "slug": "mailcow",
     "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
+    "uptime": "95.81%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "95.81%",
     "time": 784,
     "timeDay": 805,
     "timeWeek": 784,
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2026-05-23": 15
+      "2026-05-23": 70
     }
   },
   {
@@ -185,18 +185,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/coolify.nak-inf.org.ico",
     "slug": "coolify",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "96.10%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "96.10%",
+    "uptimeYear": "96.10%",
     "time": 989,
     "timeDay": 1000,
     "timeWeek": 989,
     "timeMonth": 989,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2026-05-23": 10
+      "2026-05-23": 65
     }
   },
   {
@@ -205,18 +205,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.nak-inf.org.ico",
     "slug": "np-mplus",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "96.39%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
     "time": 355,
     "timeDay": 338,
     "timeWeek": 355,
     "timeMonth": 355,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2026-05-23": 5
+      "2026-05-23": 60
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://mango.nak-inf.org",
     "icon": "https://icons.duckduckgo.com/ip3/mango.nak-inf.org.ico",
     "slug": "mango-proxmox-ve",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 382,
-    "timeDay": 354,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "status": "up",
+    "uptime": "96.68%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "96.68%",
+    "time": 387,
+    "timeDay": 376,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2026-05-23": 0
+      "2026-05-23": 55
     }
   }
 ]
