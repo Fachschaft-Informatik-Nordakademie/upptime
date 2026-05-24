@@ -4,28 +4,40 @@ repo: upptime
 sites:
   - name: Outline Wiki
     url: https://wiki.nak-inf.org
+    body: Outline
   - name: Authentik SSO
     url: https://auth.nak-inf.org
+    body: Authentik
   - name: Pretix Shop (FS Inf)
     url: https://shop.nak-inf.org
+    body: pretix
   - name: Pretix Shop (FS BWL)
     url: https://shop.nak-bwl.de
+    body: pretix
   - name: Overleaf
     url: https://overleaf.nak-inf.org
+    body: Overleaf
   - name: Firefly III (FS Inf)
     url: https://budget.nak-inf.org
+    body: Firefly
   - name: Firefly III (FS BWL)
     url: https://budget.nak-bwl.de
+    body: Firefly
   - name: Vaultwarden
     url: https://vault.stupanak.de
+    body: Vaultwarden
   - name: Mailcow
     url: https://mx.stupanak.de
+    body: Mailcow
   - name: Coolify
     url: https://coolify.nak-inf.org
+    body: Coolify
   - name: NPMplus
     url: https://nginx.nak-inf.org
+    body: Nginx Proxy Manager
   - name: Mango (Proxmox VE)
     url: https://mango.nak-inf.org
+    body: Proxmox
 
 status-website:
   cname: status.nak-inf.org
