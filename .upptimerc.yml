@@ -1,6 +1,3 @@
-owner: Fachschaft-Informatik-Nordakademie
-repo: upptime
-
 sites:
   - name: Outline Wiki
     url: https://wiki.nak-inf.org
@@ -36,7 +33,9 @@ sites:
     url: https://nginx.nak-inf.org
     body: Nginx Proxy Manager
   - name: Mango (Proxmox VE)
-    url: https://mango.nak-inf.org
+    url: https://94.130.19.169:8006
+    method: GET
+    insecure: true
     expectedStatusCodes:
       - 200
       - 301
@@ -44,8 +43,6 @@ sites:
       - 400
       - 401
       - 403
-      - 404
-      - 501
 
 status-website:
   cname: status.nak-inf.org
