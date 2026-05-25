@@ -36,8 +36,16 @@ sites:
     url: https://nginx.nak-inf.org
     body: Nginx Proxy Manager
   - name: Mango (Proxmox VE)
-    url: mango.nak-inf.org
-    check: ping
+    url: https://mango.nak-inf.org
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 400
+      - 401
+      - 403
+      - 404
+      - 501
 
 status-website:
   cname: status.nak-inf.org
