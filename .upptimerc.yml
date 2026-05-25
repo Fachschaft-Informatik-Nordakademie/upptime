@@ -36,8 +36,8 @@ sites:
     url: https://nginx.nak-inf.org
     body: Nginx Proxy Manager
   - name: Mango (Proxmox VE)
-    url: https://mango.nak-inf.org
-    body: Proxmox
+    url: mango.nak-inf.org
+    check: ping
 
 status-website:
   cname: status.nak-inf.org
