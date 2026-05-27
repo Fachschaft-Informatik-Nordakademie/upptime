@@ -1,37 +1,46 @@
 sites:
-  - name: Outline Wiki
-    url: https://wiki.nak-inf.org
-    body: Outline
+  # --- rammstein (VM 100) ---
   - name: Authentik SSO
     url: https://auth.nak-inf.org
-    body: Authentik
-  - name: Pretix Shop (FS Inf)
-    url: https://shop.nak-inf.org
-    body: pretix
-  - name: Pretix Shop (FS BWL)
-    url: https://shop.nak-bwl.de
-    body: pretix
-  - name: Overleaf
-    url: https://overleaf.nak-inf.org
-    body: Overleaf
-  - name: Firefly III (FS Inf)
-    url: https://budget.nak-inf.org
-    body: Firefly
-  - name: Firefly III (FS BWL)
-    url: https://budget.nak-bwl.de
-    body: Firefly
-  - name: Vaultwarden
-    url: https://vault.stupanak.de
-    body: Vaultwarden
-  - name: Mailcow
-    url: https://mx.stupanak.de
-    body: Mailcow
-  - name: Coolify
-    url: https://coolify.nak-inf.org
-    body: Coolify
+
   - name: NPMplus
     url: https://nginx.nak-inf.org
-    body: Nginx Proxy Manager
+
+  - name: Coolify
+    url: https://coolify.nak-inf.org
+
+  - name: Vaultwarden
+    url: https://vault.stupanak.de
+
+  - name: Onboarding
+    url: https://onboard.nak-inf.de
+
+  # --- slipknot (VM 200) ---
+  - name: Outline Wiki
+    url: https://wiki.nak-inf.org
+
+  - name: Firefly III (FS Informatik)
+    url: https://budget.nak-inf.org
+
+  - name: Firefly III (FS BWL)
+    url: https://budget.nak-bwl.de
+
+  # --- maneskin (VM 201) ---
+  - name: Overleaf
+    url: https://overleaf.nak-inf.org
+
+  # --- acdc (VM 202) ---
+  - name: Mailcow
+    url: https://mx.stupanak.de
+
+  # --- daftpunk (VM 203) ---
+  - name: Pretix (FS Informatik)
+    url: https://shop.nak-inf.org
+
+  - name: Pretix (FS BWL)
+    url: https://shop.nak-bwl.de
+
+  # --- mango (Hypervisor) ---
   - name: Mango (Proxmox VE)
     url: https://94.130.19.169:8006
     method: GET
