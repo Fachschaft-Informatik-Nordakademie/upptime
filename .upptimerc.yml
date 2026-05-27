@@ -2,11 +2,9 @@ owner: Fachschaft-Informatik-Nordakademie
 repo: upptime
 
 sites:
-  # --- Homepage ---
-  - name: Homepage (nak-inf.de)
+  - name: Homepage
     url: https://nak-inf.de
 
-  # --- rammstein (VM 100) ---
   - name: Authentik SSO
     url: https://auth.nak-inf.org
 
@@ -22,7 +20,6 @@ sites:
   - name: Onboarding
     url: https://onboard.nak-inf.de
 
-  # --- slipknot (VM 200) ---
   - name: Outline Wiki
     url: https://wiki.nak-inf.org
 
@@ -32,33 +29,17 @@ sites:
   - name: Firefly III (FS BWL)
     url: https://budget.nak-bwl.de
 
-  # --- maneskin (VM 201) ---
   - name: Overleaf
     url: https://overleaf.nak-inf.org
 
-  # --- acdc (VM 202) ---
   - name: Mailcow
     url: https://mx.stupanak.de
 
-  # --- daftpunk (VM 203) ---
   - name: Pretix (FS Informatik)
     url: https://shop.nak-inf.org
 
   - name: Pretix (FS BWL)
     url: https://shop.nak-bwl.de
-
-  # --- mango (Hypervisor) ---
-  - name: Mango (Proxmox VE)
-    url: https://94.130.19.169:8006
-    method: GET
-    insecure: true
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-      - 400
-      - 401
-      - 403
 
 status-website:
   cname: status.nak-inf.org
