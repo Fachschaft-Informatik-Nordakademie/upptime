@@ -1,4 +1,8 @@
 sites:
+  # --- Homepage ---
+  - name: Homepage (nak-inf.de)
+    url: https://nak-inf.de
+
   # --- rammstein (VM 100) ---
   - name: Authentik SSO
     url: https://auth.nak-inf.org
