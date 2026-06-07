@@ -1,7 +1,7 @@
 url: https://shop.nak-inf.org
-status: up
-code: 200
-responseTime: 1135
-lastUpdated: 2026-06-07T00:12:28.706Z
+status: down
+code: 502
+responseTime: 3661
+lastUpdated: 2026-06-07T06:26:34.199Z
 startTime: 2026-05-27T10:17:58.978Z
 generator: Upptime <https://github.com/upptime/upptime>
