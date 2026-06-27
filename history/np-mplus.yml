@@ -1,7 +1,7 @@
 url: https://nginx.nak-inf.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-27T19:06:40.590Z
+status: up
+code: 200
+responseTime: 1361
+lastUpdated: 2026-06-27T20:06:29.593Z
 startTime: 2026-05-27T10:17:46.090Z
 generator: Upptime <https://github.com/upptime/upptime>
