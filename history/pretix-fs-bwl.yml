@@ -1,7 +1,7 @@
 url: https://shop.nak-bwl.de
-status: up
-code: 200
-responseTime: 784
-lastUpdated: 2026-07-04T00:12:27.866Z
+status: down
+code: 502
+responseTime: 3496
+lastUpdated: 2026-07-04T01:18:26.180Z
 startTime: 2026-05-27T10:17:59.701Z
 generator: Upptime <https://github.com/upptime/upptime>
